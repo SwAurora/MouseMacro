@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MouseMacro:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MouseMacro_jar</output-path>
+    <root id="archive" name="MouseMacro.jar">
+      <element id="module-output" name="MouseMacro" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jnativehook-2.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
